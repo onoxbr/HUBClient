@@ -6,6 +6,4 @@ Este projeto é um fork de [Spectra Client](https://github.com/ValoSpectra/Spect
 ---
 
 # [🟢 Clique para instalar a última Versão](https://github.com/onoxbr/HUBClient/releases/latest/download/Expresso-Client-Setup.exe)
-### 📦 Última versão: `v1.0.2`
-> UI totalmente atualizada
-
+### 📦 Última versão: `v1.0.3`
