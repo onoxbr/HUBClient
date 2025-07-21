@@ -6,7 +6,7 @@ Este projeto é um fork de [Spectra Client](https://github.com/ValoSpectra/Spect
 ---
 
 # Client para jogador
-### [🎮 Instalar client para jogador](https://github.com/onoxbr/HUBClient/releases/latest/download/Pulse-Client-Setup.exe](https://github.com/onoxbr/HUBClient/releases/download/latest/Pulse-Client-Player-Setup.exe)
+### [🎮 Instalar client para jogador](https://github.com/onoxbr/HUBClient/releases/download/latest/Pulse-Client-Player-Setup.exe)
 
 
 # Client para observador
